@@ -22,7 +22,7 @@ def animation(x_move, y_move):
     tk.after_idle(animation, x_move, y_move)
 
 #controle the direction
-animation(4, 4)
+animation(1, 1)
 
 
 tk.mainloop()
